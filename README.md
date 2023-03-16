@@ -52,6 +52,7 @@ Beer :beer: and ramen :ramen: are also need-to-haves. It's all about balance!
 
 <img src="/images/babel-plain.svg" alt="Alt text" width="60" >
 <img src="/images/eslint-original-wordmark.svg" alt="Alt text" width="60" >
+<img src="/images/git-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/heroku-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/jest-plain.svg" alt="Alt text" width="60" >
 <img src="/images/markdown-original.svg" alt="Alt text" width="60" >
@@ -61,33 +62,31 @@ Beer :beer: and ramen :ramen: are also need-to-haves. It's all about balance!
 #### Experienced With:
 
 <br>
+<img src="/images/c-plain.svg" alt="Alt text" width="60" >
 <img src="/images/java-plain-wordmark.svg" alt="Alt text" width="60" >
+<img src="/images/jquery-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/python-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/typescript-plain.svg" alt="Alt text" width="60" >
-<img src="/images/c-plain.svg" alt="Alt text" width="60" >
-<img src="/images/jquery-plain-wordmark.svg" alt="Alt text" width="60" >
 <br>
 <img src="/images/gulp-plain.svg" alt="Alt text" width="60" >
+<img src="/images/materialui-plain.svg" alt="Alt text" width="60" >
 <img src="/images/sass-original.svg" alt="Alt text" width="60" >
 <img src="/images/tailwindcss-original-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/materialui-plain.svg" alt="Alt text" width="60" >
 <br>
 <img src="/images/angularjs-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/django-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/spring-plain-wordmark.svg" alt="Alt text" width="60" >
 <br>
+<img src="/images/amazonwebservices-plain-wordmark.svg" alt="Alt text" width="60">
+<img src="/images/docker-plain-wordmark.svg" alt="Alt text" width="60" >
+<img src="/images/googlecloud-plain-wordmark.svg" alt="Alt text" width="60" >
+<img src="/images/gradle-plain-wordmark.svg" alt="Alt text" width="60" >
+<img src="/images/mocha-plain.svg" alt="Alt text" width="60" >
 <img src="/images/mysql-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/postgresql-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/sqlite-plain-wordmark.svg" alt="Alt text" width="60" >
 <br>
-<img src="/images/amazonwebservices-plain-wordmark.svg" alt="Alt text" width="60">
 <img src="/images/socketio-original-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/docker-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/gradle-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/googlecloud-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/git-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/mocha-plain.svg" alt="Alt text" width="60" >
-
 <hr>
 
 ### My Stats
