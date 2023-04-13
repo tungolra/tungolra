@@ -45,9 +45,11 @@ Beer :beer: and ramen :ramen: are also need-to-haves. It's all about balance!
 <br>
 <img src="/images/html5-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/css3-plain-wordmark.svg" alt="Alt text" width="60" >
+ <img src="/images/tailwindcss-original-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/javascript-plain.svg" alt="Alt text" width="60" >
+ <img src="/images/typescript-plain.svg" alt="Alt text" width="60" >
 <br>
-
+<!-- 
 #### My Need-To-Haves:
 
 <img src="/images/babel-plain.svg" alt="Alt text" width="60" >
@@ -66,12 +68,12 @@ Beer :beer: and ramen :ramen: are also need-to-haves. It's all about balance!
 <img src="/images/java-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/jquery-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/python-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/typescript-plain.svg" alt="Alt text" width="60" >
+
 <br>
 <img src="/images/gulp-plain.svg" alt="Alt text" width="60" >
 <img src="/images/materialui-plain.svg" alt="Alt text" width="60" >
 <img src="/images/sass-original.svg" alt="Alt text" width="60" >
-<img src="/images/tailwindcss-original-wordmark.svg" alt="Alt text" width="60" >
+
 <br>
 <img src="/images/angularjs-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/django-plain-wordmark.svg" alt="Alt text" width="60" >
@@ -87,7 +89,7 @@ Beer :beer: and ramen :ramen: are also need-to-haves. It's all about balance!
 <img src="/images/sqlite-plain-wordmark.svg" alt="Alt text" width="60" >
 <br>
 <img src="/images/socketio-original-wordmark.svg" alt="Alt text" width="60" >
-<hr>
+<hr> -->
 
 ### My Stats
 
