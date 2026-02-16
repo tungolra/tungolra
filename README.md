@@ -6,12 +6,10 @@
 
 ### About Me
 
-Former finance industry professional turned Software Developer with a multidisciplinary background. I'm into building human-centric products that create value for consumers. Always interested in learning how to make applications more robust, extensible, and scalable.
-Also enjoy traveling and high-intensity sports or activities, like olympic weightlifting :muscle:, basketball :basketball:, volleyball :volleyball:, snowboarding :snowboarder:, and hiking :mountain:.
-Beer :beer: and ramen :ramen: are also need-to-haves. It's all about balance!
+Results-driven Frontend Engineer with expertise in building scalable, accessible, and high-performance web applications using React and TypeScript. Proven track record of leading UI development from concept to deployment, translating complex requirements into intuitive, user-centric solutions. Known for clear communication, technical mentorship, and driving consistent, production-quality code in Agile environments.
+
 
 ##### Let's connect on <a href="https://www.linkedin.com/in/ralph-tungol/">LinkedIn</a>!
-##### Or check out my <a href="https://ralphtungol.vercel.app/"> Portfolio </a> :)
 
 <hr>
 
@@ -30,71 +28,22 @@ Beer :beer: and ramen :ramen: are also need-to-haves. It's all about balance!
 
 <hr>
 
-### Languages and Tools
-
-<section> </section>
-
 #### Main Tech Stack:
 
-<img src="/images/mongodb-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/express-original-wordmark.svg" alt="Alt text" width="60" >
+
 <img src="/images/react-original-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/redux-original.svg" alt="Alt text" width="60" >
-<img src="/images/nodejs-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/nextjs-original-wordmark.svg" alt="Alt text" width="60" >
 <br>
 <img src="/images/html5-plain-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/css3-plain-wordmark.svg" alt="Alt text" width="60" >
- <img src="/images/tailwindcss-original-wordmark.svg" alt="Alt text" width="60" >
 <img src="/images/javascript-plain.svg" alt="Alt text" width="60" >
- <img src="/images/typescript-plain.svg" alt="Alt text" width="60" >
+<img src="/images/typescript-plain.svg" alt="Alt text" width="60" >
 <br>
 <!-- 
-#### My Need-To-Haves:
-
-<img src="/images/babel-plain.svg" alt="Alt text" width="60" >
-<img src="/images/eslint-original-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/git-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/heroku-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/jest-plain.svg" alt="Alt text" width="60" >
-<img src="/images/markdown-original.svg" alt="Alt text" width="60" >
-<img src="/images/npm-original-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/vscode-plain-wordmark.svg" alt="Alt text" width="60" >
-
-#### Experienced With:
-
-<br>
-<img src="/images/c-plain.svg" alt="Alt text" width="60" >
-<img src="/images/java-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/jquery-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/python-plain-wordmark.svg" alt="Alt text" width="60" >
-
-<br>
-<img src="/images/gulp-plain.svg" alt="Alt text" width="60" >
-<img src="/images/materialui-plain.svg" alt="Alt text" width="60" >
-<img src="/images/sass-original.svg" alt="Alt text" width="60" >
-
-<br>
-<img src="/images/angularjs-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/django-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/spring-plain-wordmark.svg" alt="Alt text" width="60" >
-<br>
-<img src="/images/amazonwebservices-plain-wordmark.svg" alt="Alt text" width="60">
-<img src="/images/docker-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/googlecloud-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/gradle-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/mocha-plain.svg" alt="Alt text" width="60" >
-<img src="/images/mysql-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/postgresql-plain-wordmark.svg" alt="Alt text" width="60" >
-<img src="/images/sqlite-plain-wordmark.svg" alt="Alt text" width="60" >
-<br>
-<img src="/images/socketio-original-wordmark.svg" alt="Alt text" width="60" >
 <hr> -->
 
-### My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tungolra&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tungolra&layout=compact&theme=vision-friendly-dark)](https://github.com/tungolra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtungol&layout=compact&theme=vision-friendly-dark)](https://github.com/rtungol/github-readme-stats) -->
 
 </div>
